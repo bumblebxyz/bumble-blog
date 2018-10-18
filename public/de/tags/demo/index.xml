@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on BUMBLEBEAST BLOG</title>
+    <link>https://blog.bumblebeast.co/de/tags/demo/</link>
+    <description>Recent content in Demo on BUMBLEBEAST BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 FN-X Inc.</copyright>
+    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bumblebeast.co/de/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Erster Artikel!</title>
+      <link>https://blog.bumblebeast.co/de/2015/01/erster-artikel/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/de/2015/01/erster-artikel/</guid>
+      <description>&lt;p&gt;Das ist mein erster Artikel, wie spannend!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

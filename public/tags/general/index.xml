@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on BumbleBeast Blog</title>
+    <link>https://blog.bumblebeast.co/tags/general/</link>
+    <description>Recent content in General on BumbleBeast Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 FN-X Inc.</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bumblebeast.co/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to BumbleBeast</title>
+      <link>https://blog.bumblebeast.co/2018/10/intro-to-bumblebeast/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/2018/10/intro-to-bumblebeast/</guid>
+      <description>So, What is BumbleBeast?  It is a milling machine first - a monsterously powerful one at that. But it does plenty more than the standard desktop mill.  Features  It can machine aluminum alloys at optimal speeds and feeds, with accuracy of 25 microns (0.001 in.) or better. It has 5 axes of movement to reduce production time up to 90% for parts with multi-faced or organic features.</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://blog.bumblebeast.co/2018/07/welcome/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/2018/07/welcome/</guid>
+      <description>&lt;p&gt;Welcome to the BumbleBeast blog!&lt;/p&gt;
+
+&lt;p&gt;More soon to come.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

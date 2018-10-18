@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=mmuzio
+HOST=wheels.dreamhost.com
+DIR=blog.bumblebeast.co
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0

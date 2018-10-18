@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on BumbleBeast Blog</title>
+    <link>https://blog.bumblebeast.co/de/tags/general/</link>
+    <description>Recent content in General on BumbleBeast Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 FN-X Inc.</copyright>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bumblebeast.co/de/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welkom!</title>
+      <link>https://blog.bumblebeast.co/de/2018/07/welkom/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/de/2018/07/welkom/</guid>
+      <description>&lt;p&gt;Welkom bij de BumbleBeast-blog!&lt;/p&gt;
+
+&lt;p&gt;Binnenkort meer.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

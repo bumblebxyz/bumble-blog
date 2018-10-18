@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BumbleBeast Blog</title>
+    <link>https://blog.bumblebeast.co/es/post/</link>
+    <description>Recent content in Posts on BumbleBeast Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 FN-X Inc.</copyright>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bumblebeast.co/es/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenidos!</title>
+      <link>https://blog.bumblebeast.co/es/2018/07/bienvenidos/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/es/2018/07/bienvenidos/</guid>
+      <description>&lt;p&gt;Bienvenido al blog BumbleBeast!&lt;/p&gt;
+
+&lt;p&gt;Más pronto para venir.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

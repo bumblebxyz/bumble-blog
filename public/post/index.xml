@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BumbleBeast Blog</title>
+    <link>https://blog.bumblebeast.co/post/</link>
+    <description>Recent content in Posts on BumbleBeast Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 FN-X Inc.</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bumblebeast.co/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to BumbleBeast</title>
+      <link>https://blog.bumblebeast.co/2018/10/intro-to-bumblebeast/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/2018/10/intro-to-bumblebeast/</guid>
+      <description>So, What is BumbleBeast?  It is a milling machine first - a monsterously powerful one at that. But it does plenty more than the standard desktop mill.  Features  It can machine aluminum alloys at optimal speeds and feeds, with accuracy of 25 microns (0.001 in.) or better. It has 5 axes of movement to reduce production time up to 90% for parts with multi-faced or organic features.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://blog.bumblebeast.co/2018/07/history/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/2018/07/history/</guid>
+      <description>Seed of an Idea  It started in Fall 2015, junior year of college. Hao and myself were roommates. We were both taking classes on design and manufacturing. Before this, we had each used a 3d printer once or twice for some small projects. But we were never too impressed with what came out. You could get a tiny, flimsy, inaccurate part made in a couple of hours, while more complex prints could take days.</description>
+    </item>
+    
+    <item>
+      <title>Progress!</title>
+      <link>https://blog.bumblebeast.co/2018/07/progress/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/2018/07/progress/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s catch up a little bit with the progress we&amp;rsquo;ve made so far with BumbleBeast:
+&lt;br&gt;
+&lt;br&gt;
+2017-09-01: Joined HMC INQ Incubator &lt;br&gt;
+&lt;br&gt;
+2017-11-06: 1st working prototype &lt;br&gt;
+&lt;br&gt;
+2018-05-10: 2nd working prototype &lt;br&gt;
+&lt;br&gt;
+2018-10-10: Working beta machine  &lt;br&gt;
+&lt;br&gt;
+2018-10-18: 2 provisional patents &lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://blog.bumblebeast.co/2018/07/welcome/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/2018/07/welcome/</guid>
+      <description>&lt;p&gt;Welcome to the BumbleBeast blog!&lt;/p&gt;
+
+&lt;p&gt;More soon to come.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

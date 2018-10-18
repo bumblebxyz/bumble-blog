@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BumbleBeast Blog</title>
+    <link>https://blog.bumblebeast.co/es/</link>
+    <description>Recent content on BumbleBeast Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2017 FN-X Inc.</copyright>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bumblebeast.co/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenidos!</title>
+      <link>https://blog.bumblebeast.co/es/2018/07/bienvenidos/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/es/2018/07/bienvenidos/</guid>
+      <description>&lt;p&gt;Bienvenido al blog BumbleBeast!&lt;/p&gt;
+
+&lt;p&gt;Más pronto para venir.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Acerca de</title>
+      <link>https://blog.bumblebeast.co/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/es/about/</guid>
+      <description>&lt;p&gt;¡BumbleBeast está aquí para brindar capacidades de fabricación robustas a las manos de ingenieros, fabricantes, aficionados, lo que sea!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://blog.bumblebeast.co/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bumblebeast.co/es/contact/</guid>
+      <description>&lt;p&gt;Déjanos saber lo que piensas sobre lo que estamos haciendo, cómo lo estamos haciendo y danos tus sugerencias.&lt;/p&gt;
+
+&lt;p&gt;Si está interesado en saber más, envíenos un correo electrónico directamente a &lt;b&gt;info@bumblebeast.co&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;O vaya al &lt;a href=&#34;https://bumblebeast.co&#34; target=&#34;_blank&#34;&gt; sitio web de BumbleBeast&lt;/a&gt; y suscríbase a nuestra lista de correo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
