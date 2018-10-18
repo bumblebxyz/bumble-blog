@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.bumblebeast.co/2018/10/benefits-of-5-axis-3d-printing/</loc>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.bumblebeast.co/2018/10/intro-to-bumblebeast/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -58,17 +63,17 @@
   
   <url>
     <loc>https://blog.bumblebeast.co/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blog.bumblebeast.co/de/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://blog.bumblebeast.co/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://blog.bumblebeast.co/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,13 +87,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://blog.bumblebeast.co/de/categories/"
+                hreflang="es"
+                href="https://blog.bumblebeast.co/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://blog.bumblebeast.co/es/categories/"
+                hreflang="de"
+                href="https://blog.bumblebeast.co/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -118,7 +123,7 @@
   
   <url>
     <loc>https://blog.bumblebeast.co/tags/dev/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,13 +133,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://blog.bumblebeast.co/de/tags/general/"
+                hreflang="es"
+                href="https://blog.bumblebeast.co/es/tags/general/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://blog.bumblebeast.co/es/tags/general/"
+                hreflang="de"
+                href="https://blog.bumblebeast.co/de/tags/general/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,17 +150,17 @@
   
   <url>
     <loc>https://blog.bumblebeast.co/post/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blog.bumblebeast.co/de/post/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://blog.bumblebeast.co/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://blog.bumblebeast.co/de/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -166,17 +171,17 @@
   
   <url>
     <loc>https://blog.bumblebeast.co/tags/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://blog.bumblebeast.co/de/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://blog.bumblebeast.co/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://blog.bumblebeast.co/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -196,13 +201,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://blog.bumblebeast.co/de/ua-107303483-1/"
+                hreflang="es"
+                href="https://blog.bumblebeast.co/es/ua-107303483-1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="https://blog.bumblebeast.co/es/ua-107303483-1/"
+                hreflang="de"
+                href="https://blog.bumblebeast.co/de/ua-107303483-1/"
                 />
     <xhtml:link
                 rel="alternate"
