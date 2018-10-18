@@ -64,7 +64,7 @@ googleAnalytics = "UA-107303483-1"
     url = "/contact/"
     name = "Kontakt"
     weight = 2
-  [[languages.es.menu.main]]
+  [[languages.de.menu.main]]
     url = "https://bumblebeast.co"
     name = "Ga naar bumblebeast.co"
     weight = 3
