@@ -8,4 +8,6 @@ If you're interested to know more, email us directly at <b>info@bumblebeast.co</
 
 Or go to the <a href="https://bumblebeast.co" target="_blank">BumbleBeast website</a> and subscribe to our mailing list.
 
+<a href="https://bumblebeast.co/#contact">Help us help you!</a>
+
 <!--more-->
